@@ -9,3 +9,6 @@
 ### 15.三数之和
 * [题目](https://leetcode-cn.com/problems/3sum/)
 * [解答](https://github.com/coldJune/leetcode/blob/master/src/main/java/array/ThreeNumberSum.java)
+### 16.最接近的三数之和
+* [题目](https://leetcode-cn.com/problems/3sum-closest/)
+* [解答](https://github.com/coldJune/leetcode/blob/master/src/main/java/array/ThreeSumClosest.java)
