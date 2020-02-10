@@ -15,3 +15,6 @@
 ### 18.四数之和
 * [题目](https://leetcode-cn.com/problems/4sum/)
 * [解答](https://github.com/coldJune/leetcode/blob/master/src/main/java/array/FourSum.java)
+### 31.下一个排列
+* [题目](https://leetcode-cn.com/problems/next-permutation/)
+* [解答](https://github.com/coldJune/leetcode/blob/master/src/main/java/array/NextPermutation.java)
