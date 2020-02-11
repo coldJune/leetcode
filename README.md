@@ -18,3 +18,6 @@
 ### 31.下一个排列
 * [题目](https://leetcode-cn.com/problems/next-permutation/)
 * [解答](https://github.com/coldJune/leetcode/blob/master/src/main/java/array/NextPermutation.java)
+### 33.搜索旋转排序数组
+* [题目](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
+* [解答](https://github.com/coldJune/leetcode/blob/master/src/main/java/array/SearchInRotatedSortedArray.java)
