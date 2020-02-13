@@ -24,3 +24,8 @@
 ### 34.在排序数组中查找元素的第一个和最后一个位置
 * [题目](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 * [解答](https://github.com/coldJune/leetcode/blob/master/src/main/java/array/FindFirstAndLastPositionOfElementInSortedArray.java)
+
+## 链表
+### 19.删除链表的倒数第N个节点
+* [题目](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list)
+* [解答](https://github.com/coldJune/leetcode/blob/master/src/main/java/array/RemoveNthFromEnd.java)
