@@ -31,6 +31,10 @@
 * [解答](https://github.com/coldJune/leetcode/blob/master/src/main/java/array/RemoveNthFromEnd.java)
 
 ## 动态规划
-### 53. 最大子序和
+### 53.最大子序和
 * [题目](https://leetcode-cn.com/problems/maximum-subarray/)
-* [解答](https://github.com/coldJune/leetcode/blob/master/src/main/java/array/MaxSubArray.java)
+* [解答](https://github.com/coldJune/leetcode/blob/master/src/main/java/dp/MaxSubArray.java)
+
+### 152.乘积最大子序列
+* [题目](https://leetcode-cn.com/problems/maximum-product-subarray/)
+* [解答](https://github.com/coldJune/leetcode/blob/master/src/main/java/dp/MaxProduct.java)
