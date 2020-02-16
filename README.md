@@ -29,3 +29,8 @@
 ### 19.删除链表的倒数第N个节点
 * [题目](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list)
 * [解答](https://github.com/coldJune/leetcode/blob/master/src/main/java/array/RemoveNthFromEnd.java)
+
+## 动态规划
+### 53. 最大子序和
+* [题目](https://leetcode-cn.com/problems/maximum-subarray/)
+* [解答](https://github.com/coldJune/leetcode/blob/master/src/main/java/array/MaxSubArray.java)
