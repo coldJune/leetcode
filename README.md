@@ -40,6 +40,9 @@
 ### 63.不同路径 II
 * [题目](https://leetcode-cn.com/problems/unique-paths-ii/)
 * [解答](https://github.com/coldJune/leetcode/blob/master/src/main/java/dp/UniquePathsWithObstacles.java)
+### 64.最小路径和
+* [题目](https://leetcode-cn.com/problems/minimum-path-sum/)
+* [解答](https://github.com/coldJune/leetcode/blob/master/src/main/java/dp/MinPathSum.java)
 ### 152.乘积最大子序列
 * [题目](https://leetcode-cn.com/problems/maximum-product-subarray/)
 * [解答](https://github.com/coldJune/leetcode/blob/master/src/main/java/dp/MaxProduct.java)
