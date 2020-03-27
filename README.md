@@ -46,6 +46,9 @@
 ### 91. 解码方法
 * [题目](https://leetcode-cn.com/problems/decode-ways/)
 * [解答](https://github.com/coldJune/leetcode/blob/master/src/main/java/dp/NumDecoding.java)
+### 120.三角形最小路径和
+* [题目](https://leetcode-cn.com/problems/triangle/)
+* [解答](https://github.com/coldJune/leetcode/blob/master/src/main/java/dp/Triangle.java)
 ### 152.乘积最大子序列
 * [题目](https://leetcode-cn.com/problems/maximum-product-subarray/)
 * [解答](https://github.com/coldJune/leetcode/blob/master/src/main/java/dp/MaxProduct.java)
