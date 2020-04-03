@@ -61,3 +61,6 @@
 ### 221. 最大正方形
 * [题目](https://leetcode-cn.com/problems/maximal-square/)
 * [解答](https://github.com/coldJune/leetcode/blob/master/src/main/java/dp/MaximalSquare.java)
+### 264. 丑数 II
+* [题目](https://leetcode-cn.com/problems/ugly-number-ii/)
+* [解答](https://github.com/coldJune/leetcode/blob/master/src/main/java/dp/NthUglyNumber.java)
