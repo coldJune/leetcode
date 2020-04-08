@@ -64,3 +64,6 @@
 ### 264. 丑数 II
 * [题目](https://leetcode-cn.com/problems/ugly-number-ii/)
 * [解答](https://github.com/coldJune/leetcode/blob/master/src/main/java/dp/NthUglyNumber.java)
+### 279. 完全平方数
+* [题目](https://leetcode-cn.com/problems/perfect-squares/)
+* [解答](https://github.com/coldJune/leetcode/blob/master/src/main/java/dp/NumSquares.java)
