@@ -67,3 +67,6 @@
 ### 279. 完全平方数
 * [题目](https://leetcode-cn.com/problems/perfect-squares/)
 * [解答](https://github.com/coldJune/leetcode/blob/master/src/main/java/dp/NumSquares.java)
+### 300. 最长上升子序列
+* [题目](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
+* [解答](https://github.com/coldJune/leetcode/blob/master/src/main/java/dp/LengthOfLIS.java)
