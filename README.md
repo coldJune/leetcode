@@ -70,3 +70,6 @@
 ### 300. 最长上升子序列
 * [题目](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
 * [解答](https://github.com/coldJune/leetcode/blob/master/src/main/java/dp/LengthOfLIS.java)
+### 304. 二维区域和检索 - 矩阵不可变
+* [题目](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)
+* [解答](https://github.com/coldJune/leetcode/blob/master/src/main/java/dp/RangeSumQuery2dImmutable.java)
