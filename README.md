@@ -78,5 +78,10 @@
 * [解答](https://github.com/coldJune/leetcode/blob/master/src/main/java/dp/BestTimeToBuyAndSellStockWithCooldown.java)
 
 ## 回溯算法
+#### 17. 电话号码的字母组合
 * [题目](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)
 * [解答](https://github.com/coldJune/leetcode/blob/master/src/main/java/backtracking/LetterCombinationsOfAPhoneNumber.java)
+
+#### 22. 括号生成
+* [题目](https://leetcode-cn.com/problems/generate-parentheses/)
+* [解答](https://github.com/coldJune/leetcode/blob/master/src/main/java/backtracking/GenerateParentheses.java)
