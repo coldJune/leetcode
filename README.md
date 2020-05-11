@@ -85,3 +85,7 @@
 #### 22. 括号生成
 * [题目](https://leetcode-cn.com/problems/generate-parentheses/)
 * [解答](https://github.com/coldJune/leetcode/blob/master/src/main/java/backtracking/GenerateParentheses.java)
+
+#### 39. 组合总和
+* [题目](https://leetcode-cn.com/problems/combination-sum/)
+* [解答](https://github.com/coldJune/leetcode/blob/master/src/main/java/backtracking/CombinationSum.java)
