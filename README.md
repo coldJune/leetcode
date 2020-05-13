@@ -93,3 +93,7 @@
 #### 40. 组合总和 II
 * [题目](https://leetcode-cn.com/problems/combination-sum-ii/)
 * [解答](https://github.com/coldJune/leetcode/blob/master/src/main/java/backtracking/CombinationSumII.java)
+
+#### 46. 全排列
+* [题目](https://leetcode-cn.com/problems/permutations/submissions/)
+* [解答](https://github.com/coldJune/leetcode/blob/master/src/main/java/backtracking/Permutations.java)
