@@ -95,5 +95,9 @@
 * [解答](https://github.com/coldJune/leetcode/blob/master/src/main/java/backtracking/CombinationSumII.java)
 
 #### 46. 全排列
-* [题目](https://leetcode-cn.com/problems/permutations/submissions/)
+* [题目](https://leetcode-cn.com/problems/permutations/)
 * [解答](https://github.com/coldJune/leetcode/blob/master/src/main/java/backtracking/Permutations.java)
+
+#### 47. 全排列 II
+* [题目](https://leetcode-cn.com/problems/permutations-ii/)
+* [解答](https://github.com/coldJune/leetcode/blob/master/src/main/java/backtracking/PermuteUnique.java)
