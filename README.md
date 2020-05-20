@@ -109,3 +109,7 @@
 #### 78. 子集
 * [题目](https://leetcode-cn.com/problems/subsets/)
 * [解答](https://github.com/coldJune/leetcode/blob/master/src/main/java/backtracking/Subsets.java)
+
+79. 单词搜索
+* [题目](https://leetcode-cn.com/problems/word-search/)
+* [解答](https://github.com/coldJune/leetcode/blob/master/src/main/java/backtracking/WordSearch.java)
